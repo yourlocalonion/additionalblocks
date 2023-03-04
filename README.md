@@ -1,4 +1,4 @@
-# Info
+# What is this?
 This is a mod I started working on in 4/2/2023 Because I noticed there
 wasn't many Decoration mods out there for 1.19.2 (not that i know of).
 
