@@ -17,4 +17,4 @@ Currently, there is no JARs for 2 reasons.
 
 # How do I Contribute?
 
-*todo: fill this in*
+*todo: fill this in with steps*
