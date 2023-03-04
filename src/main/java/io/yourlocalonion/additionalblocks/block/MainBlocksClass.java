@@ -30,7 +30,7 @@ public class MainBlocksClass {
 
     public static final RegistryObject<Block> METAL_BLOCK = regBlock("metal_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(7f).requiresCorrectToolForDrops()), ABCreativeTab.AB_CREATIVE_TAB);
+                    .strength(7f).requiresCorrectToolForDrops().explosionResistance(6f)), ABCreativeTab.AB_CREATIVE_TAB);
 
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);

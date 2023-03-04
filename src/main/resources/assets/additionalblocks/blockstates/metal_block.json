@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "additionalblocks:block/metal/metal_block"}
+    "": {
+      "model": "additionalblocks:block/metal/metal_block"
+    }
   }
 }
