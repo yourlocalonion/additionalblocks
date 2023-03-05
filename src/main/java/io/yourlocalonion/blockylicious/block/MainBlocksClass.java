@@ -1,8 +1,8 @@
-package io.yourlocalonion.additionalblocks.block;
+package io.yourlocalonion.blockylicious.block;
 
-import io.yourlocalonion.additionalblocks.ABCreativeTab;
-import io.yourlocalonion.additionalblocks.AdditionalBlocksMain;
-import io.yourlocalonion.additionalblocks.item.MainItemsClass;
+import io.yourlocalonion.blockylicious.ABCreativeTab;
+import io.yourlocalonion.blockylicious.BlockyliciousMain;
+import io.yourlocalonion.blockylicious.item.MainItemsClass;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
@@ -18,7 +18,7 @@ import java.util.function.Supplier;
 
 public class MainBlocksClass {
     public static final DeferredRegister<Block> BLOCKS =
-            DeferredRegister.create(ForgeRegistries.BLOCKS, AdditionalBlocksMain.MODID);
+            DeferredRegister.create(ForgeRegistries.BLOCKS, BlockyliciousMain.MODID);
     private static <T extends Block> RegistryObject<T> regBlock(String name, Supplier<T> block, CreativeModeTab tab) {
         RegistryObject<T> ret = BLOCKS.register(name, block);
         regBlockItem(name, ret, tab);

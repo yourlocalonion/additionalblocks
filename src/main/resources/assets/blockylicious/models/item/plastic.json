@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "additionalblocks:item/rubber_pellets"
+    "layer0": "blockylicious:item/plastic"
   }
 }

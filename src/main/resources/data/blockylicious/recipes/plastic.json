@@ -6,11 +6,11 @@
   ],
   "key": {
     "p": {
-      "item": "additionalblocks:rubber_pellet"
+      "item": "blockylicious:rubber_pellet"
     }
   },
   "result": {
     "count": 1,
-    "item": "additionalblocks:plastic"
+    "item": "blockylicious:plastic"
   }
 }

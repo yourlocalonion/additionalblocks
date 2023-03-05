@@ -3,7 +3,7 @@
   "cookingtime": 200,
   "experience": 1,
   "ingredient": {
-    "item": "additionalblocks:polymer_pellet"
+    "item": "blockylicious:polymer_pellet"
   },
-  "result": "additionalblocks:rubber_pellet"
+  "result": "blockylicious:rubber_pellet"
 }

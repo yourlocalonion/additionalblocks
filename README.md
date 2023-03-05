@@ -6,6 +6,12 @@ So I set out to make a Deco mod that's packed with tons of blocks
 (some will be functional too!), I will continue to Add content or 
 Patch bugs until there are more Deco mods for 1.19.2.
 
+*fun fact: this was called additional blocks until my friend  
+(BongCloudMaster) pointed that other mods have similar  
+names.   
+I may have some bugs due to (what i like to call) "The Great Renaming".  
+Whoops!*
+
 # Where's the JAR?
 (the jar is the actual installable mod)
 
@@ -17,3 +23,4 @@ Currently, there is no JARs for 2 reasons.
 # How do I Contribute?
 
 *todo: fill this in with steps*
+
