@@ -4,7 +4,7 @@ plugins {
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
 
-version = '0.7.14'
+version = '0.7.16'
 group = 'io.yourlocalonion.additionalblocks' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'additionalblocks'
 
@@ -132,6 +132,7 @@ repositories {
             includeGroup "curse.maven"
         }
     }
+    maven { url 'https://maven.blamejared.com' }
 }
 
 dependencies {
@@ -148,10 +149,17 @@ dependencies {
     // Examples using mod jars from ./libs
     // implementation fg.deobf("blank:coolmod-${mc_version}:${coolmod_version}")
 
-    runtimeOnly fg.deobf("curse.maven:rubidium-574856:3973894")
-    runtimeOnly fg.deobf("curse.maven:jei-238222:4405346")
-    runtimeOnly fg.deobf("curse.maven:jade-324717:4375714")
-    runtimeOnly fg.deobf("curse.maven:lazydfu-460819:3831644")
+    // these mods are only used for testing
+    // COMMENT THESE OUT BEFORE COMMITTING OR EXPORTING TO JAR
+    // optionally you can uncomment these if you'd like to keep them (after pushing or exporting)
+    //runtimeOnly fg.deobf("curse.maven:rubidium-574856:3973894")
+    //runtimeOnly fg.deobf("curse.maven:jei-238222:4405346")
+    //runtimeOnly fg.deobf("curse.maven:jade-324717:4375714")
+    //runtimeOnly fg.deobf("curse.maven:lazydfu-460819:3831644")
+
+    // these mods are actually used (dont comment these)
+    compileOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77:api")
+    runtimeOnly fg.deobf("vazkii.patchouli:Patchouli:1.19.2-77")
 
     // For more info...
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
