@@ -1,5 +1,9 @@
 {
   "itemGroup.additionalblockstab": "Additional Blocks",
 
-  "block.additionalblocks.metal_block": "Metal Block"
+  "block.additionalblocks.metal_block": "Metal Block",
+
+  "item.additionalblocks.plastic": "Plastic",
+  "item.additionalblocks.polymer_pellet": "Polymer Pellets",
+  "item.additionalblocks.rubber_pellet": "Rubber Pellets"
 }

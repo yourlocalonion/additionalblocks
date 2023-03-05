@@ -1,9 +1,16 @@
 {
-  "type": "minecraft:smelting",
-  "cookingtime": 200,
-  "experience": 1,
-  "ingredient": {
-    "item": "additionalblocks:rubber_pellet"
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kk",
+    "kk"
+  ],
+  "key": {
+    "k": {
+      "item": "minecraft:dried_kelp"
+    }
   },
-  "result": "additionalblocks:polymer_pellet"
+  "result": {
+    "count": 4,
+    "item": "additionalblocks:polymer_pellet"
+  }
 }
