@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "blockylicious:plastic_red",
+    "blockylicious:plastic_orange",
+    "blockylicious:plastic_yellow",
+    "blockylicious:plastic_lime",
+    "blockylicious:plastic_green",
+    "blockylicious:plastic_cyan",
+    "blockylicious:plastic_lightblue",
+    "blockylicious:plastic_blue",
+    "blockylicious:plastic_purple",
+    "blockylicious:plastic_magenta",
+    "blockylicious:plastic_pink",
+    "blockylicious:plastic_black",
+    "blockylicious:plastic_brown",
+    "blockylicious:plastic_gray",
+    "blockylicious:plastic_lightgray",
+    "blockylicious:plastic"
+  ]
+}

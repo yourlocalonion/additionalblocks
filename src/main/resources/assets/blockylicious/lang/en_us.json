@@ -3,7 +3,24 @@
 
   "block.blockylicious.metal_block": "Metal Block",
 
-  "item.blockylicious.plastic": "Plastic",
   "item.blockylicious.polymer_pellet": "Polymer Pellets",
-  "item.blockylicious.rubber_pellet": "Rubber Pellets"
+  "item.blockylicious.rubber_pellet": "Rubber Pellets",
+  "item.blockylicious.plastic": "Plastic",
+  "item.blockylicious.plastic_black": "Black Plastic",
+  "item.blockylicious.plastic_blue": "Blue Plastic",
+  "item.blockylicious.plastic_brown": "Brown Plastic",
+  "item.blockylicious.plastic_cyan": "Cyan Plastic",
+  "item.blockylicious.plastic_gray": "Gray Plastic",
+  "item.blockylicious.plastic_green": "Green Plastic",
+  "item.blockylicious.plastic_lightblue": "Light Blue Plastic",
+  "item.blockylicious.plastic_lightgray": "Light Green Plastic",
+  "item.blockylicious.plastic_lime": "Lime Plastic",
+  "item.blockylicious.plastic_magenta": "Magenta Plastic",
+  "item.blockylicious.plastic_orange": "Orange Plastic",
+  "item.blockylicious.plastic_pink": "Pink Plastic",
+  "item.blockylicious.plastic_purple": "Purple Plastic",
+  "item.blockylicious.plastic_red": "Red Plastic",
+  "item.blockylicious.plastic_yellow": "Yellow Plastic",
+
+  "tooltip.blockylicious.plastic": "A malleable and versatile material made from Polymer."
 }

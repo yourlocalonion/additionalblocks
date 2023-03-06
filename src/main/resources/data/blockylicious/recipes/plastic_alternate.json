@@ -1,12 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "pp",
-    "pp"
+    "pd"
   ],
   "key": {
     "p": {
-      "item": "blockylicious:polymer_pellet"
+      "tag": "blockylicious:colored_plastics"
+    },
+    "d": {
+      "item": "minecraft:white_dye"
     }
   },
   "result": {
