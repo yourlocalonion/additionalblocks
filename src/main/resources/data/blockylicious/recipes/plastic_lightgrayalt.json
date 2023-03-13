@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p"
+  ],
+  "key": {
+    "p": {
+      "item": "blockylicious:plasticblock_lightgray"
+    }
+  },
+  "result": {
+    "count": 9,
+    "item": "blockylicious:plastic_lightgray"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "ppp",
+    "ppp"
+  ],
+  "key": {
+    "p": {
+      "item": "blockylicious:plastic"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "blockylicious:plasticblock"
+  }
+}
