@@ -18,4 +18,7 @@ Currently, there is no JARs for 3 reasons.
 
 # Whats New:
 
-*todo: fill this in*
+**_Update 0.8.2 - The Plastic Update_** -- built in 10:22 pm GTM+8 21/3/2023
+
+1. Plastic blocks! - Decorate your playful or whimsical builds with these!
+2. Plastic! - (currently used for the blocks variant) These are the most essential resource to fullfill your decorational dreams!, Disclamer: dont throw them in the ocean.
