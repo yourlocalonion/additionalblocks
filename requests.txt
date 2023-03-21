@@ -1,0 +1,36 @@
+don't mind this
+(BR = Blast Resistance, NC = Not Collide-able, TR = Transparent, TRL = Translucent, "?" Does not mean Rejected!)
+
+--\ LIST /--
+
+                         Attributes              Approval Status    Rejection Reason
+Rainbow block |          {Changing Color}        /
+Crystalline block |      {Translucent and Shiny} /
+Elemental block |                                ?
+Bubble block |           {Translucent and Shiny} /
+Glow moss block |                                ?
+Lunar rock block |       {Similar To Gravel}     /
+Sonic block |            {secret muhhahhhahhaua} /
+Solar panel block |      {Completely Decorative} /
+Bioluminescent block |   {Glows when Light is 0} /
+Space rock block |       {Similar to Lunar rock} /
+Sandcastle block |                               X                  Might add this as a structure for a separate mod.
+Firefly block    |                               X                  Will be added as an entity in a separate mod.
+Slime block |                                    X                  Already Exists in Vanilla.
+Galactic glass block |   {High BR}               /
+Plasma block |           {Glowy ooooohhhhhhh}    /
+Enchanted wood block |   {Not Flammable, High BR}/
+Bubblegum block |        {Sticky, Cant bounce}   /
+Celestial block |                                ?
+Hologram block |         {NC, TRL, Displays Item}/
+Sandstone column block | {Purely Decorational}   /
+Energy core block |                              ?
+Shimmering block |                               ?
+Magic mirror block |                             X                  Might add this in a separate mod.
+Prism block |                                    ?
+Scorching block |                                X                  Literally just Magma Block (vanilla).
+Volcanic rock block |    {Drops random ores.}    /
+Cloud block |            {NC, Fluffy}            /
+Moonstone block                                  X                  Merged with Space rock block.
+Mosaic block |           {Multiple Variants}     /
+Crystal coral block                              ?

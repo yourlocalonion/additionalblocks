@@ -1,26 +1,21 @@
-# What is this?
-This is a mod I started working on in 4/2/2023 Because I noticed there
-wasn't many Decoration mods out there for 1.19.2 (not that i know of).
+# Info
+This is a mod I started working on in 4/2/2023 because I noticed there
+wasn't many decoration mods out there for 1.19.2 (not that i know of other than [Chipped](https://modrinth.com/mod/chipped), Check them out!).
+So I set out to make a deco mod that's packed with tons of blocks,
 
-So I set out to make a Deco mod that's packed with tons of blocks
-(some will be functional too!), I will continue to Add content or 
-Patch bugs until there are more Deco mods for 1.19.2.
+I will continue to add content or patch bugs until there are more deco
+mods for 1.19.2.
 
-*fun fact: this was called additional blocks until my friend  
-(BongCloudMaster) pointed that other mods have similar  
-names.   
-I may have some bugs due to (what i like to call) "The Great Renaming".  
-Whoops!*
 
 # Where's the JAR?
 (the jar is the actual installable mod)
 
-Currently, there is no JARs for 2 reasons.
+Currently, there is no JARs for 3 reasons.
 
 1. Not enough content
-2. Ongoing tests for Compat and Bugs.
+2. Ongoing tests for compatibility with other mods and bugs.
+3. ~~No Motivation (very common lmao)~~
 
-# How do I Contribute?
+# Whats New:
 
-*todo: fill this in with steps*
-
+*todo: fill this in*
