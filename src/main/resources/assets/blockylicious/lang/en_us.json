@@ -2,6 +2,8 @@
   "itemGroup.blockylicioustab": "Blockylicious's Tab",
 
   "block.blockylicious.metal_block": "Metal Block",
+  "block.blockylicious.metal_tile": "Metal Tile",
+  "block.blockylicious.sonic_block": "Sonic Block",
   "block.blockylicious.plasticblock": "Plastic Block",
   "block.blockylicious.plasticblock_black": "Black Plastic Block",
   "block.blockylicious.plasticblock_blue": "Blue Plastic Block",
@@ -18,6 +20,22 @@
   "block.blockylicious.plasticblock_purple": "Purple Plastic Block",
   "block.blockylicious.plasticblock_red": "Red Plastic Block",
   "block.blockylicious.plasticblock_yellow": "Yellow Plastic Block",
+  "block.blockylicious.mosaicblock": "Mosaic Block",
+  "block.blockylicious.mosaicblock_black": "Black Mosaic Block",
+  "block.blockylicious.mosaicblock_blue": "Blue Mosaic Block",
+  "block.blockylicious.mosaicblock_brown": "Brown Mosaic Block",
+  "block.blockylicious.mosaicblock_cyan": "Cyan Mosaic Block",
+  "block.blockylicious.mosaicblock_gray": "Gray Mosaic Block",
+  "block.blockylicious.mosaicblock_green": "Green Mosaic Block",
+  "block.blockylicious.mosaicblock_lightblue": "Light Blue Mosaic Block",
+  "block.blockylicious.mosaicblock_lightgray": "Light Green Mosaic Block",
+  "block.blockylicious.mosaicblock_lime": "Lime Mosaic Block",
+  "block.blockylicious.mosaicblock_magenta": "Magenta Mosaic Block",
+  "block.blockylicious.mosaicblock_orange": "Orange Mosaic Block",
+  "block.blockylicious.mosaicblock_pink": "Pink Mosaic Block",
+  "block.blockylicious.mosaicblock_purple": "Purple Mosaic Block",
+  "block.blockylicious.mosaicblock_red": "Red Mosaic Block",
+  "block.blockylicious.mosaicblock_yellow": "Yellow Mosaic Block",
 
   "item.blockylicious.polymer_pellet": "Polymer Pellets",
   "item.blockylicious.rubber_pellet": "Rubber Pellets",
@@ -38,5 +56,7 @@
   "item.blockylicious.plastic_red": "Red Plastic",
   "item.blockylicious.plastic_yellow": "Yellow Plastic",
 
-  "tooltip.blockylicious.plastic": "A malleable and versatile material made from Polymer."
+  "tooltip.blockylicious.plastic": "A malleable and versatile material made from Polymer.",
+  "tooltip.blockylicious.metal_block": "The base block for most metal blocks.",
+  "tooltip.blockylicious.sonic_block": "buggy ahh block uhh nah bruh"
 }

@@ -2,6 +2,8 @@ package io.yourlocalonion.blockylicious.block;
 
 import io.yourlocalonion.blockylicious.ABCreativeTab;
 import io.yourlocalonion.blockylicious.BlockyliciousMain;
+import io.yourlocalonion.blockylicious.block.custom.MetalBlock;
+import io.yourlocalonion.blockylicious.block.custom.SonicBlock;
 import io.yourlocalonion.blockylicious.item.MainItemsClass;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
@@ -29,8 +31,16 @@ public class MainBlocksClass {
     }
 
     public static final RegistryObject<Block> METAL_BLOCK = regBlock("metal_block",
+            () -> new MetalBlock(BlockBehaviour.Properties.of(Material.METAL)
+                    .strength(7f).requiresCorrectToolForDrops().explosionResistance(6f)), ABCreativeTab.AB_CREATIVE_TAB);
+
+    public static final RegistryObject<Block> METAL_TILE = regBlock("metal_tile",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
                     .strength(7f).requiresCorrectToolForDrops().explosionResistance(6f)), ABCreativeTab.AB_CREATIVE_TAB);
+
+    public static final RegistryObject<Block> SONIC_BLOCK = regBlock("sonic_block",
+            () -> new SonicBlock(BlockBehaviour.Properties.of(Material.DIRT)
+                    .strength(2f).requiresCorrectToolForDrops().explosionResistance(1f)), null);
 
     public static void register(IEventBus eventBus) {
         BLOCKS.register(eventBus);

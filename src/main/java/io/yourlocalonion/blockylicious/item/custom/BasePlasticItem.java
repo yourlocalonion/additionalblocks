@@ -1,4 +1,4 @@
-package io.yourlocalonion.blockylicious.item;
+package io.yourlocalonion.blockylicious.item.custom;
 
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Item;

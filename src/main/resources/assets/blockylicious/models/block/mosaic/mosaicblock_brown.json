@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "blockylicious:block/mosaic/mosaicblock_brown"
+  }
+}

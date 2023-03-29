@@ -2,6 +2,7 @@ package io.yourlocalonion.blockylicious.item;
 
 import io.yourlocalonion.blockylicious.ABCreativeTab;
 import io.yourlocalonion.blockylicious.BlockyliciousMain;
+import io.yourlocalonion.blockylicious.item.custom.BasePlasticItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;

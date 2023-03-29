@@ -16,6 +16,12 @@ Currently, there is no JARs for 3 reasons.
 2. Ongoing tests for compatibility with other mods and bugs.
 3. ~~No Motivation (very common lmao)~~
 
+# How can I request content?
+**currently not accepting requests for now**
+
+You can make an Issue with the label: "block Request".
+See your request in here: https://docs.google.com/spreadsheets/d/1ZLRjopCUCkYs8JByk3FNmJY9Bmhl3hTFvy4cxg6539Q/edit?usp=sharing
+
 # Whats New:
 
 **_Update 0.8.2 - The Plastic Update_** -- built in 10:22 pm GTM+8 21/3/2023

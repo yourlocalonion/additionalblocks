@@ -2,7 +2,8 @@ package io.yourlocalonion.blockylicious;
 
 import com.mojang.logging.LogUtils;
 import io.yourlocalonion.blockylicious.block.MainBlocksClass;
-import io.yourlocalonion.blockylicious.block.MainPlasticBlocksClass;
+import io.yourlocalonion.blockylicious.block.MosaicBlockClass;
+import io.yourlocalonion.blockylicious.block.PlasticBlockClass;
 import io.yourlocalonion.blockylicious.item.MainItemsClass;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -26,7 +27,8 @@ public class BlockyliciousMain
 
         MainItemsClass.register(modEventBus);
         MainBlocksClass.register(modEventBus);
-        MainPlasticBlocksClass.register(modEventBus);
+        PlasticBlockClass.register(modEventBus);
+        MosaicBlockClass.register(modEventBus);
 
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
