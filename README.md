@@ -1,6 +1,10 @@
-# Info
+# This project has been moved to another project. (blocks4free)
+**CONTEXT:** I lost my will to continue on this project some time ago, but since recently I have decided to revive this project because... im bored lol. Anyways, I moved all of this mod's assets into another mod, blocks4free. This time its being developed for the fabric mod loader.
 
-## This project has been moved to another project. (blocks4free)
+Original Decription:
+
+```
+# Info 
 
 This is a mod I started working on in 4/2/2023 because I noticed there
 wasn't many decoration mods out there for 1.19.2 (not that i know of other than [Chipped](https://modrinth.com/mod/chipped), Check them out!).
@@ -31,3 +35,4 @@ See your request in here: https://docs.google.com/spreadsheets/d/1ZLRjopCUCkYs8J
 
 1. Plastic blocks! - Decorate your playful or whimsical builds with these!
 2. Plastic! - (currently used for the blocks variant) These are the most essential resource to fullfill your decorational dreams!, Disclamer: dont throw them in the ocean.
+```
