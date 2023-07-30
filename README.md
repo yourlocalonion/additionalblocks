@@ -1,6 +1,6 @@
 # Info
 
-*currently on hiatus*
+## This project has been moved to another project. (blocks4free)
 
 This is a mod I started working on in 4/2/2023 because I noticed there
 wasn't many decoration mods out there for 1.19.2 (not that i know of other than [Chipped](https://modrinth.com/mod/chipped), Check them out!).
