@@ -1,4 +1,4 @@
-# This project has been moved to another project. (blocks4free)
+# This project has been moved to another project.
 **CONTEXT:** I lost my will to continue on this project some time ago, but since recently I have decided to revive this project because... im bored lol. Anyways, I moved all of this mod's assets into another mod, blocks4free. This time its being developed for the fabric mod loader.
 
 Original Decription:
